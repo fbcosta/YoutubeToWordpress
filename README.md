@@ -8,7 +8,7 @@ Key API:
     Google Speetch-to-text
     YouTube Data API
 
-Esse projeto usa os seguintes repositórios:
+Esse projeto usa os seguintes repositórios para:
 
 # Download do vídeo para .mp4 : 
 
