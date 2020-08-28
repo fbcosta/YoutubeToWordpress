@@ -6,7 +6,7 @@ Transcrição de canais no Youtube para WordPress
 Key API:
     
     Google Speetch-to-text
-    Youtube
+    YouTube Data API
 
 Esse projeto usa os seguintes repositórios:
 
