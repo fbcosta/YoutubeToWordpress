@@ -15,3 +15,5 @@ https://github.com/ftlabs/transcription-service
 # Gerenciador de conteúdo
 
 https://br.wordpress.org/download/
+
+Agradecimento especial ao professor e filósofo Paulo Ghiraldelli.
