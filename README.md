@@ -1,7 +1,7 @@
 # YoutubeToWordpress
 Transcrição de canais no Youtube para WordPress
 
-
+#Requisitos
 Esse projeto usa os seguintes repositórios:
 
 # Para baixar os vídeos: 
