@@ -1,10 +1,16 @@
 # YoutubeToWordpress
 Transcrição de canais no Youtube para WordPress
 
-#Requisitos
+# Requisitos
+
+Key API:
+    
+    Google Speetch-to-text
+    Youtube
+
 Esse projeto usa os seguintes repositórios:
 
-# Para baixar os vídeos: 
+# Download do vídeo para .mp4 : 
 
 https://github.com/david123ramos/CatDown?fbclid=IwAR2NWM-8YrX3gfyUmEo411O-eQzs53Z-jF5IwgbHAaSbM9g1-Yz7mj6uqt0
 
